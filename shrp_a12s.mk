@@ -20,7 +20,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/samsung/a12s/device.mk)
 
 PRODUCT_DEVICE := a12s
-PRODUCT_NAME := twrp_a12s
+PRODUCT_NAME := shrp_a12s
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-A127F
 PRODUCT_MANUFACTURER := samsung
