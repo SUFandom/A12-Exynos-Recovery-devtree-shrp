@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/shrp_a12s.mk
+    $(LOCAL_DIR)/omni_a12s.mk
 
 COMMON_LUNCH_CHOICES := \
-    shrp_a12s-eng
+    omni_a12s-eng
