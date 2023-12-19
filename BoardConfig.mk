@@ -106,6 +106,7 @@ TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
+TW_EXCLUDE_TWRPAPP := true
 
 # SHRP
 
@@ -125,9 +126,9 @@ SHRP_INTERNAL := /sdcard
 SHRP_OTG := /usb-otg
 SHRP_NOTCH := true
 
-# # RAMDISK FOR LZMA
-# LZMA_COMPRESSION := -9
-# LZMA_RAMDISK_TARGETS := recovery
+# RAMDISK FOR LZMA
+LZMA_COMPRESSION := -9
+LZMA_RAMDISK_TARGETS := recovery
 
 
 # Added ext snippet
