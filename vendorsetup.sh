@@ -1,0 +1,1 @@
+chmod device/samsung/a12s/mkbootimg
